@@ -33,7 +33,7 @@ Follow these steps to get the project running locally.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/wildanzm/django-ohs.git
+    git clone https://github.com/wildanzm/django-worklyn.git
     cd django-ohs
     ```
 
